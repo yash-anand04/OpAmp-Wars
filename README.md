@@ -1,7 +1,7 @@
 # Op-Amp Wars — Two-Stage Miller CMOS Op-Amp
 
 ## 🧠 Team Information
-**Team:** [Your Name / Team Name]  
+**Team:** Yash Anand  
 **Event:** Op-Amp Wars — Transistor Sprint (LTSpice)  
 **Date:** November 2025
 
