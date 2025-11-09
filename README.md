@@ -1,2 +1,3 @@
 # OpAmp-Wars
-Some Synergy event
+Synergy event for designing opamps based on the given problem statement.
+
